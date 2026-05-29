@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="150" height="150">
+  <!-- Circular white background -->
+  <circle cx="50" cy="50" r="48" fill="#FFFFFF"/>
+  
+  <!-- JBT Text -->
+  <text x="50" y="65" font-size="44" text-anchor="middle"
+        fill="#861F41"
+        stroke="#861F41"
+        stroke-width="2"
+        font-family="Arial, sans-serif"
+        font-weight="bold">
+    JBT
+  </text>
+</svg>
