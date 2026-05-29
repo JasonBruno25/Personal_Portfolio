@@ -5,7 +5,7 @@ export default function Header() {
 
   const handleDownload = () => {
     // link to your pdf file in the public folder
-    const pdfUrl = "/public/Jason_BrunoTerceros_Resume.pdf"; // adjust the path and name
+    const pdfUrl = "/Jason_BrunoTerceros_Resume.pdf"; // adjust the path and name
     const link = document.createElement("a");
     link.href = pdfUrl;
     link.download = "Jason_BrunoTerceros_Resume.pdf"; // filename 
