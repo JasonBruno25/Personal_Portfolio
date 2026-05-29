@@ -3,7 +3,7 @@ export default function Footer() {
     <footer style={styles.footer}>
       <div>© Jason Bruno Terceros Portfolio. Powered by JavaScript & React</div>
       <div>
-        <a href="#">GitHub</a> | <a href="#">LinkedIn</a>
+        <a href="https://github.com">GitHub</a> | <a href="https://www.linkedin.com">LinkedIn</a> | <a href="https://www.netlify.com/">Netlify</a>
       </div>
     </footer>
   );

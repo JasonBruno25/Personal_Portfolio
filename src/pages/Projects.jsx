@@ -38,7 +38,7 @@ export default function Projects() {
 
   return (
     <div className="projects-page" style={{ padding: "2rem" }}>
-      <div style={{ 
+      <div className="projects-header" style={{ 
         display: "grid",
         gridTemplateColumns: "1fr auto 1fr",
         alignItems: "center", 

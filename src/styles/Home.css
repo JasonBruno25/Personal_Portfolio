@@ -24,3 +24,39 @@
     margin-left: 0;
   }
 }
+
+/* NEW BELOW THIS */
+/* Mobile view: adjust only the Expand/Collapse button */
+@media (max-width: 768px) {
+  /* Push the button container to the right */
+  .projects-page > div:first-child > div:last-child {
+    text-align: right !important;
+    margin-right: -0.5rem;   /* moves button right; adjust if needed */
+  }
+  
+  /* Make the button smaller */
+  .projects-page button {
+    padding: 0.2rem 0.6rem !important;
+    font-size: 0.7rem !important;
+  }
+}
+
+/* Mobile view: restructure header layout and move button */
+@media (max-width: 768px) {
+  .projects-header {
+    display: flex !important;
+    justify-content: space-between;
+    align-items: center;
+    gap: 1rem;
+  }
+
+  .projects-header > div:last-child {
+    flex-shrink: 0;
+    margin-right: -0.25rem; /* pushes button further right – adjust as needed */
+  }
+
+  .projects-header button {
+    padding: 0.2rem 0.6rem !important;
+    font-size: 0.7rem !important;
+  }
+}
