@@ -8,7 +8,7 @@ export const projectsByCategory = [
         tech: "Flutter (Dart), Firebase (authentication, database, cloud functions), Local notifications (flutter_local_notifications), Future: ML Kit or custom AI for workout recommendations, REST APIs for nutritional data (USDA, Edamam), Google Calendar API, Web deployment (Flutter web)",
         date: "Ongoing development (started January 2026)",
         description: "Why? A nova is a star that suddenly becomes brilliantly bright. This app aims to be that spark for users' lifestyles—a catalyst for lasting change. Leading design and development of a comprehensive lifestyle app. Built the core calendar view with event creation, editing, and deletion; integrated local notifications for reminders. Designed the workout module featuring an interactive full-body character - users tap a muscle group (e.g., chest, legs, back) and the app displays popular exercises targeting that area, sourced from a curated database of exercises. Implemented a favorites system and workout logging. Currently implementing the meal tracking interface with barcode scanning using the device camera. Planned features: AI model to suggest daily calorie/macro goals based on user's workout history and goals; community feed where users can share their workouts; a rating system for meals that compares nutritional value to user's activity level and suggests healthier alternatives (e.g., 'Instead of a Big Mac, try a grilled chicken wrap from the same price range'). The app is built with Flutter to ensure a single codebase for iOS, Android, and web. Backend uses Firebase for real-time data sync and user authentication. Future plans include monetization via premium features (advanced analytics, personalized coaching) and eventually a public API for third-party integrations.",
-        link: "#nova-demo"
+        link: "#"
       },
       {
         title: "Personal Portfolio Website (jasonbruno.dev)",
@@ -16,7 +16,7 @@ export const projectsByCategory = [
         tech: "React (JavaScript, JSX), HTML5, CSS3 (Flexbox/Grid), ES6+, JSON data storage, Git, VS Code, Netlify (planned deployment)",
         date: "January 2026 - Present",
         description: "Why? A portfolio is more than a resume—it's a living artifact of growth. This site is both tool and testament. Designed and developed a personal portfolio website using React components for modular, maintainable code. Stored all project metadata (title, tech stack, date, description, links) in a single JSON file, then mapped over it to generate dynamic project cards - eliminating repetitive HTML and allowing instant updates. Implemented responsive layouts with CSS Grid and Flexbox, ensuring a seamless experience on desktop, tablet, and mobile. Added interactive features: hover effects, smooth scrolling, and a collapsible mobile navigation menu. Used React state to manage UI toggles (e.g., expanding project details). The code is version-controlled with Git and hosted on GitHub. Currently finalizing the design and content before deploying to Netlify (CI/CD from GitHub repository). Future enhancements include dark mode, search/filter by technology or category, and a blog section for technical writing. The site has already helped structure my job search and present complex projects (parallel programming, GPU computing, data structures) in an accessible, professional format.",
-        link: "#portfolio-live"
+        link: "https://github.com/JasonBruno25/Personal_Portfolio"
       },
       {
         title: "Project Zenith: Automated Job Board Aggregator",
@@ -24,7 +24,7 @@ export const projectsByCategory = [
         tech: "Python (Django or FastAPI) or Node.js (backend), PostgreSQL (relational data), Elasticsearch (search), BeautifulSoup / Scrapy (web scraping), Selenium (JavaScript-heavy pages), NLP (spaCy, transformers) for resume matching, Celery (async scraping tasks), React or Vue (frontend), Docker, AWS/GCP (deployment), OAuth (user authentication)",
         date: "Design phase - estimated start Q3 2026",
         description: "Why? The zenith is the highest point in the sky - a perfect metaphor for reaching your career peak or finding that dream job. It sounds aspirational and goal-oriented. Project Zenith is a planned job board platform designed to aggregate job postings directly from company career pages using automated web scraping. Unlike traditional job boards (LinkedIn, Indeed) where employers must actively post, Zenith will continuously monitor thousands of company websites and extract new job listings as soon as they are published. Users will maintain a profile with their resume and job preferences; the system will use natural language processing to match job descriptions to the user's skills and experience, providing a curated feed. The architecture will be event-driven: scheduled crawlers run asynchronously (using Celery), parse HTML, normalize fields (title, location, description, requirements), and store structured data in a PostgreSQL database. A full-text search engine (Elasticsearch) will power fast, faceted search. The frontend will be a responsive web app (React) with mobile support. Initial version will support manual URL submission; future versions will discover companies automatically via a directory. The project aims to solve the problem of job seekers missing opportunities because they cannot check every company's career site daily. Development will begin after securing a full-time position, using lessons from the fitness app (Project Nova) to inform architecture decisions.",
-        link: "#zenith-docs"
+        link: "#"
       },
       {
         title: "Project Anomaly: Next-Generation Social Media Platform",
@@ -32,7 +32,7 @@ export const projectsByCategory = [
         tech: "Evaluation phase: React Native or Flutter (mobile cross-platform), Firebase / Supabase (backend, real-time), or more decentralized: IPFS, ActivityPub (for federation), Matrix protocol. Future: Recommendation system using TensorFlow Lite, GraphQL (Apollo), Docker, Kubernetes for scaling.",
         date: "Prototyping / Concept - Idea validation & market research",
         description: "Why? In data, an anomaly stands out from the noise. On social media, anomalies are what get attention — the unexpected meme, the outlier opinion, the breakout trend. This app highlights and celebrates these delightful anomalies. (The name also hints at a slightly mischievous spirit - perfect for a platform that defies conventions.) Project Anomaly is a conceptual social media platform that aims to differentiate itself by highlighting content that deviates from the norm in a positive way - the 'anomalies' that spark genuine conversation or deliver critical information. Unlike existing platforms that reward outrage and virality, Anomaly would prioritize signals such as: newsworthiness, local relevance, helpfulness, and novelty. The user interface would allow granular control over feed algorithms (e.g., 'show me only posts from the last 24 hours,' 'prioritize content from verified local sources'). Initial development will likely use a cross-platform framework (Flutter or React Native) to launch quickly on iOS and Android. The backend will be designed for privacy - minimizing data collection and offering end-to-end encryption for direct messages. A prototype is planned for late 2026, with an alpha release targeted for early 2027. The project is currently in the research phase, analyzing user pain points with existing platforms and exploring federation (ActivityPub) to allow interoperability with Mastodon and other decentralized networks.",
-        link: "#anomaly-spec"
+        link: "#"
       },
       {
         title: "Project Lyra: Animation Studio",
@@ -40,7 +40,7 @@ export const projectsByCategory = [
         tech: "Animation: Blender (2D/3D), OpenToonz, Krita, Adobe Creative Suite (After Effects, Premiere). Distribution: YouTube, Vimeo, potential streaming partnerships. Collaboration: GitHub for script versioning, Trello/Notion for production tracking, DaVinci Resolve for post-production.",
         date: "Concept & pre-production - scriptwriting and art style exploration",
         description: "Why? Lyra is a small but beautiful constellation named after Orpheus's harp — associated with storytelling, music, and emotion. For animated episodes about life and stories, Lyra suggests a personal, artistic, and heartfelt tone, but with room for humor (Orpheus could make the gods laugh too). Project Lyra is an ambitious creative endeavor to build an animation brand from the ground up. The first series of shorts will be based on the creator's own life experiences - humorous, heartwarming vignettes that resonate with young adults and teens. Future seasons will expand into children's stories that teach empathy, resilience, and curiosity. The production pipeline will use Blender for both 2D (Grease Pencil) and 3D animation, depending on the story's needs. Sound design and music will be original or sourced from royalty-free libraries. The project also includes building a YouTube channel, developing a website to host the shorts and behind-the-scenes content, and engaging with a community of viewers. Long-term goals include applying for film festival grants, collaborating with independent musicians, and eventually pitching a pilot to streaming services. Currently in pre-production: writing scripts, designing character concepts, and learning advanced Blender techniques.",
-        link: "#lyra-teaser"
+        link: "#"
       },
     ]
   },
@@ -66,7 +66,7 @@ export const projectsByCategory = [
             tech: "Python, BeautifulSoup, Requests, PostgreSQL, Flask, HTML/CSS/JavaScript, AWS EC2",
             date: "August 2025 - December 2025",
             description: "Developed an end-to-end automated pipeline to scrape, validate, store, and serve graduate program data for statistics, biostatistics , and data science. Built five operational web scrapers with rate-limiting and error handling, achieving 95.6% accuracy. Implemented a validation framework, a relational PostgreSQL database, a Flask REST API, and a responsive frontend with dynamic filtering and program comparison features. Deployed on AWS EC2, reducing update latency and providing a scalable solution for hundreds of universities",
-            link: "https://github.com/Nmont0828/CMDA_4864_capstone"
+            link: "https://github.com/JasonBruno25/Program_Discovery_Capstone"
         }
     ]
   },
