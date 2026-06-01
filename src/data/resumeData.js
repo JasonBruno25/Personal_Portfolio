@@ -91,7 +91,7 @@ export const resumeProjects = [
         description: "Collaborated with a team of four to develop a modular Java application to create a window that can be a data visualization tool with functional systems that analyze and sort engagement metrics from a structured social dataset. Implemented linked lists and custom sorting algorithms to compare follower growth, interaction rates, and engagement. Refactored codebase to improve readability, maintainability, and separation of concerns following software design basis."
     },
     {
-        title: "Music Mixes App",
+        title: "Spotify Playlist App",
         context: "Data Structures & Algorithms",
         tech: "Java, Java GUI, Queue Data Structures",
         date: "November 2023",
