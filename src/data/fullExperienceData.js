@@ -9,7 +9,7 @@ export const allExperiences = [
         bullets: [
             "Managed high-volume inventory flow and warehouse operations in a fast-paced retail environment by unloading weekly shipments, processing incoming merchandise, and maintaining accurate stock levels across multiple departments.",
             "Coordinated product receiving, storage, and replenishment activities while ensuring inventory integrity through regular audits, stock verification, and proper handling of high-value merchandise",
-            "Prepared and fulfilled online in-store, and curbside pickup orders by accurately locating, packaging, and processing products for customers and inter0store transfers within strict fulfillment timelines",
+            "Prepared and fulfilled online in-store, and curbside pickup orders by accurately locating, packaging, and processing products for customers and inter-store transfers within strict fulfillment timelines",
             "Assisted customers directly with carry-outs, loading large products such as televisions and appliances into vehicles while delivering professional customer service and maintaining operational efficiency",
             "Supported merchandising and sales floor operations by downstocking merchandise, executing planograms, maintaining organized displays, and ensuring pricing and product placement accuracy",
             "Collaborated cross-functionally with warehouse, customer service, and sales teams to provide seamless order fulfillment and improve the overall customer experience",
@@ -25,8 +25,8 @@ export const allExperiences = [
         period: "August 2020 - August 2024",
         bullets: [
             "Supported daily library and facility operations for one of Virginia Tech's largest academic buildings by assisting with logistics, material handling, and operational support services",
-            "Received, sorted, and distributed mail, packages, and freight deliveries from multiple carriers including, USPS, UPS, FedEx, and campus distribution services to departments and staff across the facility",
-            "Processed outgoing interlibrary loan shipments by packaging materials, generating shipping labels, preparing documentation, and coordinating pickups to ensure timely delivery of academic resources",
+            "Received, sorted, and distributed mail, packages, and freight deliveries from multiple carriers, including, USPS, UPS, FedEx, and campus distribution services to departments and staff across the facility",
+            "Processed outgoing interlibrary loan shipments by packaging materials, generating shipping labels, preparing documentation, and coordinating pickups to ensure the timely delivery of academic resources",
             "Assisted with room setups, furniture movement, and event support by arranging tables, chairs, study spaces, and equipment for meetings, installations, and campus events",
             "Maintained building organization and cleanliness through recycling collection, supply restocking, operational checks, and coordination with custodial and maintenance teams",
             "Supported library operations and customer service initiatives by assisting staff, responding to facility-related requests, and helping maintain a safe, welcoming environment for students and faculty",
@@ -42,10 +42,10 @@ export const allExperiences = [
         bullets: [
             "Supported high-volume catering operations for corporate events, business meetings, and private functions throughout Northern Virginia by assisting with food preparation, transportation, setup, and event execution",
             "Delivered catering orders and coordinated logistics for events by loading and unloading supplies, arranging food displays, and preparing buffet-style and plated service stations",
-            "Assisted with food and beverage service during events by serving guests, replenishing stations, and supporting bartending operations including preparation of beer, wine, and basic mixed drinks",
+            "Assisted with food and beverage service during events by serving guests, replenishing stations, and supporting bartending operations, including preparation of beer, wine, and basic mixed drinks",
             "Maintained professional customer service standards while interacting with clients, guests, event coordinators, and kitchen staff in fast-paced and high-pressure environments",
             "Supported kitchen operations during high-demand periods by assisting with light food preparation tasks, assembling desserts, organizing ingredients, and maintaining sanitary workspaces",
-            "Assisted with event setup and breakdown responsibilities including table arrangements, equipment organization, inventory management, and post-event cleanup",
+            "Assisted with event setup and breakdown responsibilities, including table arrangements, equipment organization, inventory management, and post-event cleanup",
             "Maintained cleanliness and sanitation standards by cleaning equipment, organizing supplies, and ensuring compliance with food safety and workplace safety procedures",
             "Collaborated closely with chefs, event captains, and catering staff to ensure smooth service flow, timely delivery, and successful event execution"
         ]
@@ -59,8 +59,8 @@ export const allExperiences = [
             "Supported environmental monitoring and smart sensing research initiatives within the LEWAS (Laboratory for Environmental Water and Atmospheric Sensing) Lab at Virginia Tech",
             "Developed Python-based workflows to validate and process more than 10,000 sensor records, improving the accuracy, reliability, and consistency of environmental datasets",
             "Automated real-time data transmission processes using Arduino-to-Python pipelines, increasing data processing efficiency and reducing manual intervention requirements",
-            "Assisted with the collection, cleaning, and analysis of high-frequency environmental monitoring data research and technical reporting purposes",
-            "Built interactive ArcGIS dashboards and visualizations to support interpretation of sensor outputs and improve accessibility of technical data for researchers and project stakeholders",
+            "Assisted with the collection, cleaning, and analysis of high-frequency environmental monitoring data for research and technical reporting purposes",
+            "Built interactive ArcGIS dashboards and visualizations to support the interpretation of sensor outputs and improve accessibility of technical data for researchers and project stakeholders",
             "Assisted with IoT-based sensor system maintenance, troubleshooting, and testing in both laboratory and field environments",
             "Collaborated with graduate researchers and faculty members to support project objectives, data analysis efforts, and technical documentation",
             "Maintained organization research records and contributed to the preparation of technical materials related to ongoing environmental sensing projects"
@@ -72,14 +72,14 @@ export const allExperiences = [
         position: "Manager on Duty",
         period: "May 2017 - May 2019",
         bullets: [
-            "During my time as a Manager on Duty, I worked for both the water park (Water Mine Family Swimmin' Hole) and the recreational park (Lake Fairfax Park) for their respective seasons i.e., from April/May to September I would be with the water park. From September to April I would work for the recreational side. All information pertaining to my position is true to both facilities, the directors of both worked together to keep me on for their respective sites and coordinated my schedule so I can be able to work on the facility for the appropriate season",
+            "During my time as a Manager on Duty, I worked for both the water park (Water Mine Family Swimmin' Hole) and the recreational park (Lake Fairfax Park) for their respective seasons, i.e., from April/May to September, I would be with the water park. From September to April, I would work for the recreational side. All information pertaining to my position is true to both facilities; the directors of both worked together to keep me on for their respective sites and coordinated my schedule so I can be able to work on the facility for the appropriate season",
             "Supervised daily park and facility operations within a high-traffic public recreation environment while ensuring safety, operational efficiency, and compliance with Fairfax County Park Authority standards",
             "Oversaw rotating staff schedules and coordinated operations for more than 250 employees across multiple shifts, departments, and activity areas",
             "Managed facility opening and closing procedures, secured park operations, and ensured readiness of facilities, equipment, and event spaces for public use",
             "Served as the lead on-site responder during emergencies and operational incidents by coordinating staff response efforts and applying established safety and emergency procedures",
             "Conducted routine inspections of facilities, equipment, and public areas to identify maintenance, safety, and operational concerns while coordinating corrective actions with supervisors and support teams",
             "Managed scheduling logistics, staffing coordination, and resource allocation strategies that improved operational efficiency and reduced downtime across park operations",
-            "Assisted with financial and administrative responsibilities including cash handling, point-of-sale operations, shift reporting, and operational documentation",
+            "Assisted with financial and administrative responsibilities, including cash handling, point-of-sale operations, shift reporting, and operational documentation",
             "Coordinated picnic rentals, permitted events, and customer service operations while maintaining a safe and welcoming environment for guests",
             "Maintained working knowledge of Park Authority policies, safety regulations, and standard operating procedures while ensuring staff compliance and professional conduct",
             "Demonstrated strong leadership and decision-making abilities while working independently in fast-paced public service environments requiring rapid problem-solving and effective communication"
@@ -98,7 +98,7 @@ export const allExperiences = [
             "Assisted staff and clients with general software navigation, technical troubleshooting, and operational questions related to tax preparation systems",
             "Entered, updated, and maintained electronic records while ensuring accuracy and confidentiality of sensitive client information",
             "Documented recurring technical issues, resolutions, and system changes to improve troubleshooting efficiency and support knowledge sharing within the office",
-            "Assisted with general office operations including document management, filing, customer support, and administrative tasks during high-volume processing periods"
+            "Assisted with general office operations, including document management, filing, customer support, and administrative tasks during high-volume processing periods"
         ]
     },
     {
@@ -110,7 +110,7 @@ export const allExperiences = [
             "Managed daily inventory operations by unloading shipments, organizing warehouse stock, and maintaining inventory accuracy within a high-volume retail environment",
             "Processed incoming and outgoing merchandise through accurate shipping, receiving, and inventory reconciliation procedures",
             "Fulfilled online, in-store, and will-call customer orders by picking, packing, and preparing products for shipment or customer pickup",
-            "Supported merchandising operations through downstocking, inventory replenishment, planogram execution, and maintenance or organized product displays",
+            "Supported merchandising operations through downstocking, inventory replenishment, planogram execution, and maintenance of organized product displays",
             "Assisted with inventory integrity initiatives by identifying discrepancies, processing damaged goods, and supporting warehouse audits and inventory counts",
             "Maintained warehouse organization and ensured proper storage of merchandise to support efficient product retrieval and operational workflow",
             "Collaborated with customer service and sales teams to provide timely order fulfillment and improve the customer experience",
@@ -127,7 +127,7 @@ export const allExperiences = [
             "Supervised daily aquatic operations within a high-volume public water park environment, ensuring the safety of guests and staff while maintaining efficient facility operations",
             "Directed and guided lifeguards and park attendants in the execution of operational, safety, and customer service responsibilities across multiple attractions and activity areas",
             "Created and managed staff rotations while adjusting assignments and coverage in response to attendance levels, emergencies, weather conditions, and operational needs",
-            "Enforced park rules, safety standards, health regulations, and standard operating procedures to maintain compliance and ensure a safe recreational environment",
+            "Enforced Park rules, safety standards, health regulations, and standard operating procedures to maintain compliance and ensure a safe recreational environment",
             "Conducted and documented daily, weekly, and monthly inspections of aquatic facilities, rescue equipment, attractions, and operational systems",
             "Maintained proper pool water chemistry and coordinated corrective actions when readings varied from established operational standards",
             "Performed operational troubleshooting and responded to emergencies by coordinating rescue efforts, first aid response, and incident management procedures",
@@ -163,9 +163,9 @@ export const allExperiences = [
         period: "May 2015 - September 2015",
         bullets: [
             "Assisted supervisors with managing daily aquatic operations and supporting lifeguards and park attendants within a fast-paced public water park environment",
-            "Helped coordinate staff rotations and operational assignments to maintain effective coverage across attractions, guest areas, and activity zones",
+            "Help coordinate staff rotations and operational assignments to maintain effective coverage across attractions, guest areas, and activity zones",
             "Assisted with conducting facility inspections, documenting operational conditions, and ensuring compliance with safety and maintenance standards",
-            "Enforced park rules, safety procedures, and operational guidelines to maintain a safe and organized environment for guests and employees",
+            "Enforced Park rules, safety procedures, and operational guidelines to maintain a safe and organized environment for guests and employees",
             "Monitored and maintained pool water chemistry while communicating operational concerns and equipment issues to supervisors and on duty managers",
             "Participated in staff readiness activities, operational training, and Vigilance Awareness Training (VAT) programs to support safety compliance and rescue preparedness",
             "Assisted with emergency response coordination, first aid incidents, guest support situations, and operational troubleshooting throughout the facility",
@@ -201,7 +201,7 @@ export const allExperiences = [
             "Maintained rescue readiness and lifeguarding skills through regular training sessions, emergency drills, and operational evaluations",
             "Assisted with maintaining cleanliness and organization of locker rooms, pool decks, guest areas, attractions, and operational spaces through the park",
             "Delivered exceptional customer service while interacting professionally with guests, families, and team members in a high-volume recreational setting",
-            "Participated in a mandatory staff training and operational meetings to maintain compliance with safety, operational, and facility standards",
+            "Participated in mandatory staff training and operational meetings to maintain compliance with safety, operational, and facility standards",
             "Maintained CPR, first aid, and emergency response certifications while supporting safe and efficient park operations",
             "Demonstrated professionalism, teamwork, and situational awareness in a fast-paced environment requiring constant attention to guest safety and operational readiness"
         ]

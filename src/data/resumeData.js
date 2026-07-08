@@ -24,14 +24,14 @@ export const resumeExperiences = [
         period: "May 2017 - May 2019",
         bullets: [
             "Supervised 250+ staff across rotating shifts, ensuring safety, compliance, and efficient daily operations",
-            "Managed facility operations, schedulinig, and financial reporting in a high-traffic public environment",
-            "Imporved resource allocation strategies, reducing operational downtime by 15% through planning optimization"
+            "Managed facility operations, scheduling, and financial reporting in a high-traffic public environment",
+            "Improved resource allocation strategies, reducing operational downtime by 15% through planning optimization"
         ]
     },
     {
         company: "Latin Tax Inc",
         location: "Alexandria, VA",
-        position: "Technican Assistant",
+        position: "Technician Assistant",
         period: "January 2017 - May 2017",
         bullets: [
             "Provided hands-on technical support for Windows systems and Drake Tax software in a fast-paced production environment",
@@ -95,7 +95,7 @@ export const resumeProjects = [
         context: "Data Structures & Algorithms",
         tech: "Java, Java GUI, Queue Data Structures",
         date: "November 2023",
-        description: "Engineered an interactive Java GUI application using array queue data structures for real-time playlist management. Synchronized frontend UI updates with backend data changes to ensure consistent application state and user experience. Improved application responsiveness through optimized event handling and UI rendering logic"
+        description: "Engineered an interactive Java GUI application using array queue data structures for real-time playlist management. Synchronized frontend UI updates with backend data changes to ensure consistent application state and user experience. Improved application responsiveness through optimized event handling and UI rendering logic."
     },
     /* {
         title: "TITLE",
